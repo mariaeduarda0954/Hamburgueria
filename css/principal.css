@@ -1,0 +1,32 @@
+*{
+    font-family: "Arial", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-superior{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    height: 3rem;
+    background-color: rgba(194, 94, 247, 0.721);
+}
+
+#menu-principal{
+    list-style: none;
+    width: 100px;;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    color: aliceblue;
+    margin:0;
+    padding: 0 10px;
+    text-align: center;
+}
+
+h1{
+    font: size 1.3em;
+    margin: 20px auto;
+    text-align: center;
+}
